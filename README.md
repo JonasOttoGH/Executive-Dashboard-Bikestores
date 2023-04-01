@@ -1,4 +1,4 @@
-# Executive-Dashboard-Bike stores
+# Executive-Dashboard-Bike-Stores 
 
 A portfolio project looking at a financial dataset and creating my first interactive dashboard.
 
