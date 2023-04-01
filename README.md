@@ -28,9 +28,12 @@ Some noticeable trends (many more can obviously be made, but for the sake of tim
 - Motorbikes are becoming increasingly more popular to buy as every year a higher percentage sell
 - March to June see the highest amounts of sale. This could be due to the incoming summer months and the deals/promotions running during this time.
 - Baldwain Bikes consistently sells the most bikes with over 60% every year
+
 Revenues per region:
 - New Yoke is the most profitable region while Texas is the least
+
 Revenues per store:
 - Baldwain Bikes makes the most revenue
+
 Revenues per brand:
 - Trek makes the most revenue
